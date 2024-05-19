@@ -3,7 +3,7 @@
 1. Clone repository
 
 ```shell
- https://github.com/siyajindal/student-crud.git
+ https://github.com/Aniketdhama/Student_crud.git
 ```
 
 ## Install Client (React Files)
